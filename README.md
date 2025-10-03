@@ -85,6 +85,7 @@ print(res2)
 
 ## Output :
 <img width="338" height="162" alt="image" src="https://github.com/user-attachments/assets/39ad9d6f-e637-4472-95a8-ef9c79ed7989" />
+
 <img width="343" height="162" alt="image" src="https://github.com/user-attachments/assets/d2e61d51-9a3c-49e3-b573-b5e4d317c328" />
 
 
